@@ -1,0 +1,25 @@
+{
+  "name": "47project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "try",
+    "first",
+    "project"
+  ],
+  "author": "Lalit baghel",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.1.1",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
